@@ -2,9 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 
 * 🌍  I'm a Motivated BSc in Computer Science graduate with a desire to learn and contribute. Limited experience in software
- Testing but eager to gain skills and knowledge. Adaptable and quick learner with a passion for problem-solving. Seeking
- for a entry-level role as a QA to apply and enhance my technical abilities while contributing to the growth of the
- organization.
+      Testing but eager to gain skills and knowledge. Adaptable and quick learner with a passion for problem-solving. Seeking
+      for a entry-level role as a QA to apply and enhance my technical abilities while contributing to the growth of the
+      organization.
 * ✉️  You can contact me at [sathishx999@gmail.com](mailto:sathishx999@gmail.com)
 * 🤝  I'm open to collaborating on Automation and Manual Testing Project
 * ⚡  i'm the 🦇👨
